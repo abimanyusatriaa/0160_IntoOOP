@@ -21,6 +21,7 @@ private:
     string namaMk;
     int sks;
 
+
 int main()
 {
     std::cout << "Hello World!\n";
